@@ -15,6 +15,8 @@ All music belongs to Diabarha https://www.youtube.com/channel/UCksq7I8QduPMyaLkI
 
 All dialogue text was generated with https://porfirevich.ru/
 
+Catacombs font by ToughCrest Studio https://www.instagram.com/toughcrest/
+
 This project uses Yarn Spinner, available under the following license:
 
 The MIT License (MIT)
