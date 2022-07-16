@@ -7,6 +7,8 @@
 - ?????
 - Теперь ты гейм девелопер.
 
+Архив с исходниками, на всякий случай: https://drive.google.com/file/d/1s2ZPkqmR8RdOcECPCNZovIGEptvwxOHA/view?usp=sharing
+
 ==========================================================
 
 All images belong to https://www.craiyon.com/
